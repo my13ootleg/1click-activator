@@ -11,11 +11,9 @@ The following apps have confirmed this.
 
 # Usage
 
-Run it as "Administrator".
-
 ## Launch the file
 
-Run the **batch.cmd** file with admin privileges. It will take about 5 minutes to complete, so please be patient.
+Run the **batch.cmd** file with "Administrator" privileges. It will take about 5 minutes to complete, so please be patient.
 
 ## Caution
 
