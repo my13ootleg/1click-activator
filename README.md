@@ -11,7 +11,7 @@ The following apps have confirmed this.
 
 # Usage
 
-run it as "Administrator".
+Run it as "Administrator".
 
 ## Launch the file
 
