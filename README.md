@@ -1,6 +1,6 @@
 # Overview
 
-This batch file is for MS Office 2021 to one click activate.
+This batch file is for Microsoft Office 2021 to 1-click activate.
 
 ## Confirmed apps
 
