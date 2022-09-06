@@ -13,7 +13,7 @@ The following apps have confirmed this.
 
 ## Launch the file
 
-**batch.cmd** file Run it with admin privileges. It will take about 5 minutes to activate, please wait.
+Run the **batch.cmd** file with admin privileges. It will take about 5 minutes to complete, so please be patient.
 
 ## Caution
 
