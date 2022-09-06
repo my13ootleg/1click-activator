@@ -9,9 +9,9 @@ The following apps have confirmed this.
 - Microsoft Office 2021 Standard
 - Microsoft Office 2021 Professional Plus
 
-# Usage
+## Usage
 
-## Launch the file
+### Launch the file
 
 Run the **batch.cmd** file with "Administrator" privileges. It will take about 5 minutes to complete, so please be patient.
 
