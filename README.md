@@ -11,4 +11,10 @@ The following apps have confirmed this.
 
 # Usage
 
-Run it with administrator privileges.
+## Run to file
+
+Run it with administrator privileges. It will take about 5 minutes to activate, please wait.
+
+## Caution
+
+このバッチファイル
