@@ -15,8 +15,6 @@ The following apps have confirmed this.
 
 Run it with admin privileges. It will take about 5 minutes to activate, please wait.
 
-
-
 ## Caution
 
-このバッチファイル
+This batch file is an unofficial. Use it only when there is a problem with the license key and the Office apps can no longer be used properly.
