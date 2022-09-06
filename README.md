@@ -11,9 +11,11 @@ The following apps have confirmed this.
 
 # Usage
 
-## Run to file
+## Launch the file
 
-Run it with administrator privileges. It will take about 5 minutes to activate, please wait.
+Run it with admin privileges. It will take about 5 minutes to activate, please wait.
+
+
 
 ## Caution
 
